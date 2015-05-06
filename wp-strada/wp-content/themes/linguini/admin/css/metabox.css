@@ -1,0 +1,25 @@
+/* Metabox */
+.metabox label { font-weight: bold; }
+.metabox input, .metabox textarea, .metabox select, .metabox .color-picker input {
+	float: left;
+	padding: 7px;
+	margin-right: 3px;
+	background: #fcfcff url("../images/bg-input.png") left top no-repeat !important;
+	border: 1px solid #d6d6da !important;
+	color: #7d828c;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+.metabox select { padding: 0; }
+.metabox input:focus, .metabox textarea:focus, .metabox select:focus, .metabox .color-picker input:focus {
+	background: white url("../images/bg-input.png") left top no-repeat !important;
+	outline: none;
+	color: #646973;
+	border: 1px solid #ceced2;
+}
+.metabox select { width: 250px; }
+.metabox textarea { width: 75%; height: 100px; }
+.metabox input.metabox_upload_image_button { float: left; width: 10em !important; padding: 8px 10px 8px !important; font: 12px "Arial", Helvetica, sans-serif !important; font-weight: bold !important; background: #464b55 url("../images/bg-button.png") left top repeat-x !important; border: none !important; -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px; cursor: pointer; color: white; }
+.metabox input.metabox_upload_image_button:hover { color: white; background: #464b55 url("../images/bg-button.png") left bottom repeat-x !important; }
+.metabox-heading { border: 1px solid #d6d6da; border-width: 1px 0 1px 0; margin: 0; }
