@@ -1,0 +1,1909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gusteau\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-13 17:50+0100\n"
+"PO-Revision-Date: 2012-04-13 17:50+0100\n"
+"Last-Translator: Pavel Richter <pavel@grandpixels.com>\n"
+"Language-Team: Grand Pixels <pavel@grandpixels.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "404 Page not found"
+msgstr ""
+
+#: ../404.php:20
+msgid "Sorry, this page was not found."
+msgstr ""
+
+#: ../404.php:21
+#, php-format
+msgid "You can try to return to the <a title=\"%1$s homepage\" href=\"%2$s\">%1$s homepage</a> and start fresh."
+msgstr ""
+
+#: ../archive.php:5
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:7
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../archive.php:9
+#: ../archive.php:11
+#: ../archive.php:13
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:9
+msgid "F jS, Y"
+msgstr ""
+
+#: ../archive.php:11
+msgid "F, Y"
+msgstr ""
+
+#: ../archive.php:15
+msgid "Blog archives"
+msgstr ""
+
+#: ../archive.php:58
+#: ../index.php:39
+#: ../page-home.php:132
+msgid "0"
+msgstr ""
+
+#: ../archive.php:58
+#: ../index.php:39
+#: ../page-home.php:132
+msgid "1"
+msgstr ""
+
+#: ../archive.php:58
+#: ../index.php:39
+#: ../page-home.php:132
+msgid "%"
+msgstr ""
+
+#: ../archive.php:80
+#: ../index.php:61
+msgid "Continue reading"
+msgstr ""
+
+#: ../archive.php:95
+#: ../index.php:75
+msgid "&lsaquo; Older entries"
+msgstr ""
+
+#: ../archive.php:96
+#: ../index.php:76
+msgid "Newer entries &rsaquo;"
+msgstr ""
+
+#: ../comments.php:2
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:2
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:2
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:14
+msgid "You can be the first one to leave a comment."
+msgstr ""
+
+#: ../footer.php:36
+msgid "Copyright"
+msgstr ""
+
+#: ../footer.php:36
+msgid "All rights reserved."
+msgstr ""
+
+#: ../footer.php:42
+#: ../header.php:60
+msgid "Twitter"
+msgstr ""
+
+#: ../footer.php:45
+#: ../header.php:63
+msgid "Facebook"
+msgstr ""
+
+#: ../footer.php:48
+#: ../header.php:66
+msgid "LinkedIn"
+msgstr ""
+
+#: ../footer.php:51
+#: ../header.php:69
+msgid "Google+"
+msgstr ""
+
+#: ../footer.php:54
+#: ../header.php:72
+msgid "Flickr"
+msgstr ""
+
+#: ../footer.php:57
+#: ../header.php:75
+msgid "Vimeo"
+msgstr ""
+
+#: ../footer.php:59
+#: ../header.php:78
+msgid "RSS"
+msgstr ""
+
+#: ../functions.php:89
+msgid "Primary navigation"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Sidebar: Left"
+msgstr ""
+
+#: ../functions.php:106
+msgid "Left sidebar widget area displayed on almost all pages."
+msgstr ""
+
+#: ../functions.php:119
+msgid "Sidebar: Right"
+msgstr ""
+
+#: ../functions.php:120
+msgid "Right sidebar widget area displayed on page template called Page - Right."
+msgstr ""
+
+#: ../functions.php:133
+msgid "Sidebar: Blog - Top"
+msgstr ""
+
+#: ../functions.php:134
+msgid "Right sidebar widget area displayed on blog pages (category, post, archives) on the top of the sidebar."
+msgstr ""
+
+#: ../functions.php:142
+msgid "Sidebar: Blog - Bottom"
+msgstr ""
+
+#: ../functions.php:143
+msgid "Right sidebar widget area displayed on blog pages (category, post, archives) on the bottom of the sidebar."
+msgstr ""
+
+#: ../functions.php:156
+msgid "Footer: Left"
+msgstr ""
+
+#: ../functions.php:157
+msgid "First footer widget area."
+msgstr ""
+
+#: ../functions.php:165
+msgid "Footer: Center"
+msgstr ""
+
+#: ../functions.php:166
+msgid "Second Footer widget area."
+msgstr ""
+
+#: ../functions.php:174
+msgid "Footer: Right"
+msgstr ""
+
+#: ../functions.php:175
+msgid "Third Footer widget area."
+msgstr ""
+
+#: ../functions.php:532
+msgid "Sunday"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Monday"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Tuesday"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Wednesday"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Thursday"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Friday"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Saturday"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Su"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Mo"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Tu"
+msgstr ""
+
+#: ../functions.php:533
+msgid "We"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Th"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Fr"
+msgstr ""
+
+#: ../functions.php:533
+msgid "Sa"
+msgstr ""
+
+#: ../functions.php:534
+msgid "January"
+msgstr ""
+
+#: ../functions.php:534
+msgid "February"
+msgstr ""
+
+#: ../functions.php:534
+msgid "March"
+msgstr ""
+
+#: ../functions.php:534
+msgid "April"
+msgstr ""
+
+#: ../functions.php:534
+msgid "May"
+msgstr ""
+
+#: ../functions.php:534
+msgid "June"
+msgstr ""
+
+#: ../functions.php:534
+msgid "July"
+msgstr ""
+
+#: ../functions.php:534
+msgid "August"
+msgstr ""
+
+#: ../functions.php:534
+msgid "September"
+msgstr ""
+
+#: ../functions.php:534
+msgid "October"
+msgstr ""
+
+#: ../functions.php:534
+msgid "November"
+msgstr ""
+
+#: ../functions.php:534
+msgid "December"
+msgstr ""
+
+#: ../functions.php:535
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:536
+msgid "Prev"
+msgstr ""
+
+#: ../header.php:129
+msgid "Select a page"
+msgstr ""
+
+#: ../index.php:4
+msgid "Blog"
+msgstr ""
+
+#: ../page-contact.php:11
+#: ../page-contact.php:164
+msgid "Please fill your name!"
+msgstr ""
+
+#: ../page-contact.php:20
+#: ../page-contact.php:177
+msgid "Please fill your email address!"
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "Please fill your valid email address!"
+msgstr ""
+
+#: ../page-contact.php:30
+msgid "Please fill your message!"
+msgstr ""
+
+#: ../page-contact.php:42
+msgid "Name:"
+msgstr ""
+
+#: ../page-contact.php:43
+msgid "Phone:"
+msgstr ""
+
+#: ../page-contact.php:44
+msgid "Email:"
+msgstr ""
+
+#: ../page-contact.php:45
+msgid "Message:"
+msgstr ""
+
+#: ../page-contact.php:157
+msgid "Contact form"
+msgstr ""
+
+#: ../page-contact.php:163
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:171
+msgid "Phone"
+msgstr ""
+
+#: ../page-contact.php:172
+msgid "Please fill your phone number!"
+msgstr ""
+
+#: ../page-contact.php:176
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:184
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:185
+msgid "Please fill the message!"
+msgstr ""
+
+#: ../page-contact.php:195
+msgid "Send email"
+msgstr ""
+
+#: ../page-contact.php:197
+msgid "Required fields"
+msgstr ""
+
+#: ../page-contact.php:198
+msgid "Sending email ..."
+msgstr ""
+
+#: ../page-contact.php:203
+#: ../page-contact.php:208
+msgid "Thank you. Email has been sent. We will contact you as soon as possible."
+msgstr ""
+
+#: ../page-menu-dinner.php:48
+#: ../page-menu-drink.php:48
+#: ../page-menu-food.php:48
+#: ../page-menu-lunch.php:48
+#: ../page-menu-wine.php:48
+msgid "Back to top"
+msgstr ""
+
+#: ../page-photos.php:92
+msgid "Image not available"
+msgstr ""
+
+#: ../page-photos.php:112
+msgid "View entire"
+msgstr ""
+
+#: ../page-reservation.php:11
+#: ../page-reservation.php:205
+msgid "Please select a date!"
+msgstr ""
+
+#: ../page-reservation.php:18
+#: ../page-reservation.php:213
+msgid "Please fill the time!"
+msgstr ""
+
+#: ../page-reservation.php:25
+#: ../page-reservation.php:221
+msgid "Please fill the number of persons!"
+msgstr ""
+
+#: ../page-reservation.php:63
+msgid "Date and time:"
+msgstr ""
+
+#: ../page-reservation.php:64
+msgid "Number of persons:"
+msgstr ""
+
+#: ../page-reservation.php:200
+msgid "Reservation information"
+msgstr ""
+
+#: ../page-reservation.php:204
+msgid "Date"
+msgstr ""
+
+#: ../page-reservation.php:212
+msgid "Time"
+msgstr ""
+
+#: ../page-reservation.php:220
+msgid "Number of persons"
+msgstr ""
+
+#: ../page-reservation.php:233
+msgid "Personal information"
+msgstr ""
+
+#: ../page-reservation.php:269
+msgid "Make a reservation"
+msgstr ""
+
+#: ../page-reservation.php:277
+#: ../page-reservation.php:282
+msgid "Thank you. Email has been sent. Our staff will confirm you the booking by email or SMS."
+msgstr ""
+
+#: ../search.php:4
+msgid "Search results for:"
+msgstr ""
+
+#: ../search.php:47
+msgid "Sorry, but unfortunately nothing was found!"
+msgstr ""
+
+#: ../searchform.php:4
+#: ../searchform.php:9
+#: ../searchform.php:10
+msgid "Search ..."
+msgstr ""
+
+#: ../sidebar-blog.php:9
+msgid "Categories"
+msgstr ""
+
+#: ../sidebar-blog.php:18
+msgid "Archives"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:13
+#: ../admin/functions/cpt/cpt-callouts.php:14
+#: ../admin/functions/cpt/cpt-callouts.php:16
+#: ../admin/functions/cpt/cpt-callouts.php:17
+msgid "Callout Blocks"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:18
+msgid "All Callout Blocks"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:19
+#: ../admin/functions/cpt/cpt-callouts.php:20
+msgid "Add New Callout Block"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:21
+#: ../admin/functions/cpt/cpt-callouts.php:22
+msgid "Edit Callout Block"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:23
+msgid "New Callout Block"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:24
+#: ../admin/functions/cpt/cpt-callouts.php:25
+msgid "View Callout Block"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:26
+msgid "Search Callout Block"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:27
+msgid "No Callout Block Found"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:28
+msgid "No Callout Block Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:56
+msgid "Callout Block Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:62
+msgid "The URL"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:63
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:69
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:70
+msgid "Insert text of the button."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:162
+msgid "Callout Block Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-callouts.php:163
+#: ../admin/functions/cpt/cpt-menu-dinner.php:238
+#: ../admin/functions/cpt/cpt-menu-drink.php:237
+#: ../admin/functions/cpt/cpt-menu-food.php:237
+#: ../admin/functions/cpt/cpt-menu-lunch.php:237
+#: ../admin/functions/cpt/cpt-menu-wine.php:237
+#: ../admin/functions/cpt/cpt-photos.php:92
+#: ../admin/functions/cpt/cpt-slides.php:157
+#: ../admin/functions/widgets/widget-testimonial.php:57
+msgid "Author"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:13
+msgid "Foods - Dinner"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:14
+#: ../admin/functions/cpt/cpt-menu-dinner.php:16
+#: ../admin/functions/cpt/cpt-menu-dinner.php:17
+msgid "Dinners"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:18
+msgid "All Dinners"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:19
+#: ../admin/functions/cpt/cpt-menu-dinner.php:20
+msgid "Add New Dinner"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:21
+#: ../admin/functions/cpt/cpt-menu-dinner.php:22
+msgid "Edit Dinner"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:23
+msgid "New Dinner"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:24
+#: ../admin/functions/cpt/cpt-menu-dinner.php:25
+msgid "View Dinner"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:26
+msgid "Search Dinner"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:27
+msgid "No Dinners"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:28
+msgid "No Dinners Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:47
+#: ../admin/functions/cpt/cpt-menu-dinner.php:95
+#: ../admin/functions/cpt/cpt-menu-dinner.php:101
+msgid "Dinner Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:61
+#: ../admin/functions/cpt/cpt-menu-dinner.php:76
+msgid "Dinner Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:62
+msgid "Dinner Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:63
+msgid "Search Dinner Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:64
+msgid "Popular Dinner Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:65
+msgid "All Dinner Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:66
+msgid "Parent Dinner Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:67
+msgid "Parent Dinner Category:"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:68
+msgid "Edit Dinner Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:69
+msgid "Update Dinner Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:70
+msgid "Add New Dinner Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:71
+msgid "No Dinner Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:72
+msgid "New Dinner Category Name"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:105
+msgid "Dinner Price"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:106
+msgid "Fill the price with the currency of the dinner. Format: &euro;25 or &pound;25 or $25."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:112
+msgid "Dinner Description"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:113
+msgid "Fill the description of the dinner."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:119
+#: ../admin/functions/cpt/cpt-menu-drink.php:118
+#: ../admin/functions/cpt/cpt-menu-food.php:118
+#: ../admin/functions/cpt/cpt-menu-lunch.php:118
+#: ../admin/functions/cpt/cpt-menu-wine.php:118
+#: ../admin/functions/cpt/cpt-pages.php:22
+#: ../admin/functions/cpt/cpt-posts.php:22
+msgid "Meta"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:123
+#: ../admin/functions/cpt/cpt-menu-drink.php:122
+#: ../admin/functions/cpt/cpt-menu-food.php:122
+#: ../admin/functions/cpt/cpt-menu-lunch.php:122
+#: ../admin/functions/cpt/cpt-menu-wine.php:122
+#: ../admin/functions/cpt/cpt-pages.php:26
+#: ../admin/functions/cpt/cpt-posts.php:26
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:124
+#: ../admin/functions/cpt/cpt-menu-drink.php:123
+#: ../admin/functions/cpt/cpt-menu-food.php:123
+#: ../admin/functions/cpt/cpt-menu-lunch.php:123
+#: ../admin/functions/cpt/cpt-menu-wine.php:123
+#: ../admin/functions/cpt/cpt-pages.php:27
+#: ../admin/functions/cpt/cpt-posts.php:27
+msgid "Add meta keywords for this page or post. Separate keywords with commas."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:130
+#: ../admin/functions/cpt/cpt-menu-drink.php:129
+#: ../admin/functions/cpt/cpt-menu-food.php:129
+#: ../admin/functions/cpt/cpt-menu-lunch.php:129
+#: ../admin/functions/cpt/cpt-menu-wine.php:129
+#: ../admin/functions/cpt/cpt-pages.php:33
+#: ../admin/functions/cpt/cpt-posts.php:33
+msgid "Meta Description"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:131
+#: ../admin/functions/cpt/cpt-menu-drink.php:130
+#: ../admin/functions/cpt/cpt-menu-food.php:130
+#: ../admin/functions/cpt/cpt-menu-lunch.php:130
+#: ../admin/functions/cpt/cpt-menu-wine.php:130
+#: ../admin/functions/cpt/cpt-pages.php:34
+#: ../admin/functions/cpt/cpt-posts.php:34
+msgid "Add a meta description for this page or post."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:235
+msgid "Dinner Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:236
+#: ../admin/functions/cpt/cpt-menu-drink.php:235
+#: ../admin/functions/cpt/cpt-menu-food.php:235
+#: ../admin/functions/cpt/cpt-menu-lunch.php:235
+#: ../admin/functions/cpt/cpt-menu-wine.php:235
+#: ../admin/functions/cpt/cpt-photos.php:91
+msgid "Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:237
+#: ../admin/functions/cpt/cpt-menu-drink.php:236
+#: ../admin/functions/cpt/cpt-menu-food.php:236
+#: ../admin/functions/cpt/cpt-menu-lunch.php:236
+#: ../admin/functions/cpt/cpt-menu-wine.php:236
+msgid "Price"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:255
+#: ../admin/functions/cpt/cpt-menu-drink.php:254
+#: ../admin/functions/cpt/cpt-menu-food.php:254
+#: ../admin/functions/cpt/cpt-menu-lunch.php:254
+#: ../admin/functions/cpt/cpt-menu-wine.php:254
+#: ../admin/functions/cpt/cpt-slides.php:174
+msgid "/"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-dinner.php:275
+#: ../admin/functions/cpt/cpt-menu-drink.php:274
+#: ../admin/functions/cpt/cpt-menu-food.php:274
+#: ../admin/functions/cpt/cpt-menu-lunch.php:274
+#: ../admin/functions/cpt/cpt-menu-wine.php:274
+#: ../admin/functions/cpt/cpt-photos.php:119
+msgid "No Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:13
+#: ../admin/functions/cpt/cpt-menu-drink.php:14
+#: ../admin/functions/cpt/cpt-menu-drink.php:16
+#: ../admin/functions/cpt/cpt-menu-drink.php:17
+msgid "Drinks"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:18
+msgid "All Drinks"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:19
+#: ../admin/functions/cpt/cpt-menu-drink.php:20
+msgid "Add New Drink"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:21
+#: ../admin/functions/cpt/cpt-menu-drink.php:22
+msgid "Edit Drink"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:23
+msgid "New Drink"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:24
+#: ../admin/functions/cpt/cpt-menu-drink.php:25
+msgid "View Drink"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:26
+msgid "Search Drink"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:27
+msgid "No Drinks"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:28
+msgid "No Drinks Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:47
+#: ../admin/functions/cpt/cpt-menu-drink.php:94
+#: ../admin/functions/cpt/cpt-menu-drink.php:100
+msgid "Drink Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:61
+#: ../admin/functions/cpt/cpt-menu-drink.php:75
+msgid "Drink Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:62
+msgid "Drink Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:63
+msgid "Search Drink Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:64
+msgid "Popular Drink Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:65
+msgid "All Drink Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:66
+msgid "Parent Drink Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:67
+msgid "Parent Drink Category:"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:68
+msgid "Edit Drink Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:69
+msgid "Update Drink Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:70
+msgid "Add New Drink Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:71
+msgid "New Drink Category Name"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:104
+msgid "Drink Price"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:105
+msgid "Fill the price with the currency of the drink menu item. Format: &euro;25 or &pound;25 or $25."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:111
+msgid "Drink Description"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:112
+msgid "Fill the description of the drink menu item."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-drink.php:234
+msgid "Drink Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:13
+#: ../admin/functions/cpt/cpt-menu-food.php:14
+#: ../admin/functions/cpt/cpt-menu-food.php:16
+#: ../admin/functions/cpt/cpt-menu-food.php:17
+msgid "Foods"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:18
+msgid "All Foods"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:19
+#: ../admin/functions/cpt/cpt-menu-food.php:20
+msgid "Add New Food"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:21
+#: ../admin/functions/cpt/cpt-menu-food.php:22
+msgid "Edit Food"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:23
+msgid "New Food"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:24
+#: ../admin/functions/cpt/cpt-menu-food.php:25
+msgid "View Food"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:26
+msgid "Search Food"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:27
+msgid "No Foods"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:28
+msgid "No Foods Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:47
+#: ../admin/functions/cpt/cpt-menu-food.php:94
+#: ../admin/functions/cpt/cpt-menu-food.php:100
+msgid "Food Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:61
+#: ../admin/functions/cpt/cpt-menu-food.php:75
+msgid "Food Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:62
+msgid "Food Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:63
+msgid "Search Food Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:64
+msgid "Popular Food Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:65
+msgid "All Food Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:66
+msgid "Parent Food Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:67
+msgid "Parent Food Category:"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:68
+msgid "Edit Food Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:69
+msgid "Update Food Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:70
+msgid "Add New Food Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:71
+msgid "New Food Category Name"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:104
+msgid "Food Price"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:105
+msgid "Fill the price with the currency of the food menu item. Format: &euro;25 or &pound;25 or $25."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:111
+msgid "Food Description"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:112
+msgid "Fill the description of the food menu item as ingredients or process of cooking."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-food.php:234
+msgid "Food Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:13
+#: ../admin/functions/cpt/cpt-menu-lunch.php:14
+#: ../admin/functions/cpt/cpt-menu-lunch.php:16
+#: ../admin/functions/cpt/cpt-menu-lunch.php:17
+msgid "Foods - Lunch"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:18
+msgid "All Lunches"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:19
+#: ../admin/functions/cpt/cpt-menu-lunch.php:20
+msgid "Add New Lunch"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:21
+#: ../admin/functions/cpt/cpt-menu-lunch.php:22
+msgid "Edit Lunch"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:23
+msgid "New Lunch"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:24
+#: ../admin/functions/cpt/cpt-menu-lunch.php:25
+msgid "View Lunch"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:26
+msgid "Search Lunch"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:27
+msgid "No Lunches"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:28
+msgid "No Lunches Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:47
+#: ../admin/functions/cpt/cpt-menu-lunch.php:94
+#: ../admin/functions/cpt/cpt-menu-lunch.php:100
+msgid "Lunch Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:61
+#: ../admin/functions/cpt/cpt-menu-lunch.php:75
+msgid "Lunch Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:62
+msgid "Lunch Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:63
+msgid "Search Lunch Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:64
+msgid "Popular Lunch Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:65
+msgid "All Lunch Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:66
+msgid "Parent Lunch Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:67
+msgid "Parent Lunch Category:"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:68
+msgid "Edit Lunch Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:69
+msgid "Update Lunch Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:70
+msgid "Add New Lunch Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:71
+msgid "New Lunch Category Name"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:104
+msgid "Lunch Price"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:105
+msgid "Fill the price with the currency of the lunch. Format: &euro;25 or &pound;25 or $25."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:111
+msgid "Lunch Description"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:112
+msgid "Fill the description of the lunch."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-lunch.php:234
+msgid "Lunch Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:13
+#: ../admin/functions/cpt/cpt-menu-wine.php:14
+#: ../admin/functions/cpt/cpt-menu-wine.php:16
+#: ../admin/functions/cpt/cpt-menu-wine.php:17
+msgid "Drinks - Wine"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:18
+msgid "All Wines"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:19
+#: ../admin/functions/cpt/cpt-menu-wine.php:20
+msgid "Add New Wine"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:21
+#: ../admin/functions/cpt/cpt-menu-wine.php:22
+msgid "Edit Wine"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:23
+msgid "New Wine"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:24
+#: ../admin/functions/cpt/cpt-menu-wine.php:25
+msgid "View Wine"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:26
+msgid "Search Wine"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:27
+msgid "No Wines"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:28
+msgid "No Wines Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:47
+#: ../admin/functions/cpt/cpt-menu-wine.php:94
+#: ../admin/functions/cpt/cpt-menu-wine.php:100
+msgid "Wine Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:61
+#: ../admin/functions/cpt/cpt-menu-wine.php:75
+msgid "Wine Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:62
+msgid "Wine Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:63
+msgid "Search Wine Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:64
+msgid "Popular Wine Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:65
+msgid "All Wine Categories"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:66
+msgid "Parent Wine Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:67
+msgid "Parent Wine Category:"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:68
+msgid "Edit Wine Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:69
+msgid "Update Wine Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:70
+msgid "Add New Wine Category"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:71
+msgid "New Wine Category Name"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:104
+msgid "Wine Price"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:105
+msgid "Fill the price with the currency of the wine. Format: &euro;25 or &pound;25 or $25."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:111
+msgid "Wine Description"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:112
+msgid "Fill the description of the wine."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-menu-wine.php:234
+msgid "Wine Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-pages.php:17
+msgid "Page Custom Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:13
+#: ../admin/functions/cpt/cpt-photos.php:14
+#: ../admin/functions/cpt/cpt-photos.php:16
+#: ../admin/functions/cpt/cpt-photos.php:17
+#: ../admin/functions/cpt/cpt-photos.php:61
+msgid "Photogalleries"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:18
+msgid "All Photos"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:19
+#: ../admin/functions/cpt/cpt-photos.php:20
+msgid "Add New Photo"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:21
+msgid "Edit Photo"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:22
+msgid "Edit Photos"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:23
+msgid "New Photos"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:24
+#: ../admin/functions/cpt/cpt-photos.php:25
+msgid "View Photos"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:26
+msgid "Search Photos"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:27
+msgid "No Photos"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:28
+msgid "No Photos Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:47
+msgid "Photos Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:62
+msgid "Photogallery"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:63
+msgid "Search Photogallery"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:64
+msgid "Popular Photogalleries"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:65
+msgid "All Photogalleries"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:66
+msgid "Parent Photogalleries"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:67
+msgid "Parent Photogallery:"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:68
+msgid "Edit Photogallery"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:69
+msgid "Update Photogallery"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:70
+msgid "Add New Photogallery"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:71
+msgid "New Photogallery Name"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:75
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-photos.php:90
+msgid "Photo Title"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-posts.php:17
+msgid "Post Custom Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:13
+#: ../admin/functions/cpt/cpt-slides.php:14
+#: ../admin/functions/cpt/cpt-slides.php:16
+#: ../admin/functions/cpt/cpt-slides.php:17
+msgid "Slides"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:18
+msgid "All Slides"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:19
+#: ../admin/functions/cpt/cpt-slides.php:20
+msgid "Add New Slide"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:21
+#: ../admin/functions/cpt/cpt-slides.php:22
+msgid "Edit Slide"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:23
+msgid "New Slide"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:24
+#: ../admin/functions/cpt/cpt-slides.php:25
+msgid "View Slide"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:26
+msgid "Search Slide"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:27
+msgid "No Slides Found"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:28
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:56
+msgid "Slide Options"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:62
+#: ../admin/functions/cpt/cpt-slides.php:156
+msgid "Caption"
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:63
+msgid "Add caption of the slide."
+msgstr ""
+
+#: ../admin/functions/cpt/cpt-slides.php:155
+msgid "Slide Title"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:10
+msgid "Widget that displays information about you."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:19
+msgid "Linguini: About box"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:33
+#: ../admin/functions/widgets/widget-contact.php:33
+#: ../admin/functions/widgets/widget-reservation.php:33
+#: ../admin/functions/widgets/widget-testimonial.php:31
+#: ../admin/functions/widgets/widget-testimonial.php:33
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:56
+msgid "About us"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:57
+msgid "More about us"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:71
+#: ../admin/functions/widgets/widget-contact.php:301
+#: ../admin/functions/widgets/widget-openinghours.php:93
+#: ../admin/functions/widgets/widget-reservation.php:358
+msgid "Title"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:75
+#: ../admin/functions/widgets/widget-contact.php:305
+#: ../admin/functions/widgets/widget-reservation.php:362
+msgid "Content"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:79
+msgid "Show button?"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:83
+msgid "Button text"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-aboutbox.php:87
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-contact.php:10
+msgid "Widget that displays contact form."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-contact.php:19
+msgid "Linguini: Contact form"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-contact.php:291
+msgid "Quick contact"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:10
+msgid "Widget that displays opening hours."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:19
+msgid "Linguini: Opening hours"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:70
+msgid "Opening hours"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:97
+msgid "Monday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:101
+msgid "Tuesday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:105
+msgid "Wednesday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:109
+msgid "Thursday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:113
+msgid "Friday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:117
+msgid "Saturday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-openinghours.php:121
+msgid "Sunday's time"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-reservation.php:10
+msgid "Widget that displays reservation form."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-reservation.php:19
+msgid "Linguini: Quick reservation"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-reservation.php:348
+msgid "Quick reservation"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-testimonial.php:10
+msgid "Widget that displays testimonial."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-testimonial.php:19
+msgid "Linguini: Testimonial"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-testimonial.php:53
+msgid "Testimonial"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:10
+msgid "Widget that displays latest tweets from the Twitter account."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:17
+msgid "Linguini: Latest tweets"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:26
+#: ../admin/functions/widgets/widget-tweets.php:81
+msgid "Latest tweets"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:39
+msgid "Loading latest tweets ..."
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:54
+#, php-format
+msgid "Follow %1$s on Twitter"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:83
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:101
+msgid "Twitter username"
+msgstr ""
+
+#: ../admin/functions/widgets/widget-tweets.php:106
+msgid "Number of tweets"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:41
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:53
+msgid "Theme options reset!"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:54
+msgid "Theme options saved!"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:66
+msgid "Theme"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:66
+msgid "Options"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:75
+msgid "General"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:78
+msgid "Slideshow"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:81
+msgid "Menu Cards"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:84
+msgid "Socials"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:87
+msgid "Forms"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:90
+msgid "Tracking"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:387
+msgid "Save options"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:409
+msgid "Are you sure you want to reset the theme options to the default?"
+msgstr ""
+
+#: ../admin/options/theme-admin.php:409
+msgid "Reset options"
+msgstr ""
+
+#: ../admin/options/theme-options.php:14
+msgid "Responsive Theme"
+msgstr ""
+
+#: ../admin/options/theme-options.php:18
+msgid "Want to use the responsive theme features?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:19
+msgid "If you want to use the responsive theme features (displaying for mobile devices), select Yes."
+msgstr ""
+
+#: ../admin/options/theme-options.php:30
+msgid "Logo Image Upload"
+msgstr ""
+
+#: ../admin/options/theme-options.php:31
+msgid "Upload a logo image or specify absolute path to your logo image (Upload an image and then click \"Insert into Post\".) <strong>Maximum width: 300px. Maximum height: 190px.</strong>"
+msgstr ""
+
+#: ../admin/options/theme-options.php:37
+msgid "Colors"
+msgstr ""
+
+#: ../admin/options/theme-options.php:41
+msgid "Primary Color"
+msgstr ""
+
+#: ../admin/options/theme-options.php:42
+msgid "Select primary color of the theme. Default: #d2552d"
+msgstr ""
+
+#: ../admin/options/theme-options.php:48
+msgid "Background"
+msgstr ""
+
+#: ../admin/options/theme-options.php:52
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/options/theme-options.php:53
+msgid "Select background color. Default: #2d1912"
+msgstr ""
+
+#: ../admin/options/theme-options.php:59
+msgid "Default Meta"
+msgstr ""
+
+#: ../admin/options/theme-options.php:63
+msgid "Default Meta Keywords"
+msgstr ""
+
+#: ../admin/options/theme-options.php:64
+msgid "Add default meta keywords. Separate keywords with commas."
+msgstr ""
+
+#: ../admin/options/theme-options.php:70
+msgid "Default Meta Description"
+msgstr ""
+
+#: ../admin/options/theme-options.php:71
+msgid "Add default meta description."
+msgstr ""
+
+#: ../admin/options/theme-options.php:77
+#: ../admin/options/theme-options.php:81
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/options/theme-options.php:82
+msgid "Here you can specify a custom CSS section of code. This code will be given priority over other CSS styles."
+msgstr ""
+
+#: ../admin/options/theme-options.php:95
+msgid "Slideshow Settings"
+msgstr ""
+
+#: ../admin/options/theme-options.php:99
+msgid "Slideshow Effect"
+msgstr ""
+
+#: ../admin/options/theme-options.php:100
+msgid "Choose a effect for changing slides."
+msgstr ""
+
+#: ../admin/options/theme-options.php:107
+msgid "Slideshow Pause time"
+msgstr ""
+
+#: ../admin/options/theme-options.php:108
+msgid "Fill how long will be slide visible (in miliseconds). Default is 8000."
+msgstr ""
+
+#: ../admin/options/theme-options.php:114
+msgid "Time of Transition"
+msgstr ""
+
+#: ../admin/options/theme-options.php:115
+msgid "Fill how fast will be slide changed (in miliseconds). Default is 800."
+msgstr ""
+
+#: ../admin/options/theme-options.php:128
+msgid "Food Menu (Foods)"
+msgstr ""
+
+#: ../admin/options/theme-options.php:132
+msgid "Display Food Item Title as Link?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:134
+#: ../admin/options/theme-options.php:154
+#: ../admin/options/theme-options.php:174
+msgid "Please select if you want to display item title as link to detail page."
+msgstr ""
+
+#: ../admin/options/theme-options.php:140
+msgid "Display Food Item Image as Link to Large Image?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:141
+#: ../admin/options/theme-options.php:161
+#: ../admin/options/theme-options.php:181
+msgid "Please select if you want to display item image as link to large image (lightbox)."
+msgstr ""
+
+#: ../admin/options/theme-options.php:148
+msgid "Lunch Menu (Foods - Lunch)"
+msgstr ""
+
+#: ../admin/options/theme-options.php:152
+msgid "Display Lunch Item Title as Link?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:160
+msgid "Display Lunch Item Image as Link to Large Image?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:168
+msgid "Dinner Menu (Foods - Dinner)"
+msgstr ""
+
+#: ../admin/options/theme-options.php:172
+msgid "Display Dinner Item Title as Link?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:180
+msgid "Display Dinner Item Image as Link to Large Image?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:188
+msgid "Drink Menu (Drinks)"
+msgstr ""
+
+#: ../admin/options/theme-options.php:192
+msgid "Show Drink Item Title as Link?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:193
+#: ../admin/options/theme-options.php:213
+msgid "Please select if you want to show item title as link to detail page."
+msgstr ""
+
+#: ../admin/options/theme-options.php:200
+msgid "Show Drink Item Image as Link to Large Image?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:201
+#: ../admin/options/theme-options.php:221
+msgid "Please select if you want to show item image as link to large image (lightbox)."
+msgstr ""
+
+#: ../admin/options/theme-options.php:208
+msgid "Wine Menu (Drinks - Wines)"
+msgstr ""
+
+#: ../admin/options/theme-options.php:212
+msgid "Show Wine Item Title as Link?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:220
+msgid "Show Wine Item Image as Link to Large Image?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:235
+msgid "Social Profiles"
+msgstr ""
+
+#: ../admin/options/theme-options.php:239
+msgid "Twitter Account"
+msgstr ""
+
+#: ../admin/options/theme-options.php:240
+msgid "Fill a full path to your Twitter account. If you leave the field blank icon will be hidden."
+msgstr ""
+
+#: ../admin/options/theme-options.php:246
+msgid "Facebook Account"
+msgstr ""
+
+#: ../admin/options/theme-options.php:247
+msgid "Fill a full path to your Facebook account. If you leave the field blank icon will be hidden."
+msgstr ""
+
+#: ../admin/options/theme-options.php:253
+msgid "Linked In Account"
+msgstr ""
+
+#: ../admin/options/theme-options.php:254
+msgid "Fill a full path to your Linked In account. If you leave the field blank icon will be hidden."
+msgstr ""
+
+#: ../admin/options/theme-options.php:260
+msgid "Google+ Account"
+msgstr ""
+
+#: ../admin/options/theme-options.php:261
+msgid "Fill a full path to your Google+ account. If you leave the field blank icon will be hidden."
+msgstr ""
+
+#: ../admin/options/theme-options.php:267
+msgid "Flickr Account"
+msgstr ""
+
+#: ../admin/options/theme-options.php:268
+msgid "Fill a full path to your Flickr account. If you leave the field blank icon will be hidden."
+msgstr ""
+
+#: ../admin/options/theme-options.php:274
+msgid "Vimeo Account"
+msgstr ""
+
+#: ../admin/options/theme-options.php:275
+msgid "Fill a full path to your Vimeo account. If you leave the field blank icon will be hidden."
+msgstr ""
+
+#: ../admin/options/theme-options.php:281
+msgid "Show RSS Icon in the Topbar?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:282
+msgid "Please select if you want to show RSS icon in the topbar."
+msgstr ""
+
+#: ../admin/options/theme-options.php:289
+msgid "Show RSS Icon in the Footer?"
+msgstr ""
+
+#: ../admin/options/theme-options.php:290
+msgid "Please select if you want to show RSS icon in the footer."
+msgstr ""
+
+#: ../admin/options/theme-options.php:304
+msgid "Contact Form"
+msgstr ""
+
+#: ../admin/options/theme-options.php:308
+msgid "Email for the Receiving Contact Emails"
+msgstr ""
+
+#: ../admin/options/theme-options.php:309
+#: ../admin/options/theme-options.php:327
+msgid "Fill your email address in this format: john@doe.com"
+msgstr ""
+
+#: ../admin/options/theme-options.php:315
+#: ../admin/options/theme-options.php:333
+msgid "Subject of the Received Email"
+msgstr ""
+
+#: ../admin/options/theme-options.php:316
+msgid "Fill the subject of the email. Something as: Name of the site - Contact form."
+msgstr ""
+
+#: ../admin/options/theme-options.php:322
+msgid "Reservations Form"
+msgstr ""
+
+#: ../admin/options/theme-options.php:326
+msgid "Email for the Receiving Reservation Emails"
+msgstr ""
+
+#: ../admin/options/theme-options.php:334
+msgid "Fill the subject of the email. Something as: Name of the site - Reservation"
+msgstr ""
+
+#: ../admin/options/theme-options.php:347
+#: ../admin/options/theme-options.php:351
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/options/theme-options.php:352
+msgid "Add your tracking code from website analytics service."
+msgstr ""
+
